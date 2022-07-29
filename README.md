@@ -4,7 +4,7 @@
   This application allows users to create a daily schedule, and is built using Moment.js and bootstrap.
 
   ## Links & Screenshots
-  [GitHub Pages Link](https://github.com/tyler94flynn)  
+  [GitHub Pages Link](https://tyler94flynn.github.io/challenge-05-workday-scheduler/)  
 
   [Screenshot of functioning application](./screenshot.png)
 
